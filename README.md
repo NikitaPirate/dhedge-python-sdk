@@ -4,16 +4,16 @@
 ## Installation
 1.install [eth-brownie](https://github.com/eth-brownie/brownie) \
 2. install dhedge:
+
+```bash
+$ pip install dhedge
+```
+or
 ```bash
 $ git clone https://github.com/NikitaPirate/dhedge-python-sdk.git
 $ cd dhedge-python-sdk
 $ python3 setup.py install
 ```
-or
-```bash
-$ pip install dhedge-python-sdk
-```
-
 
 ## Network
 
