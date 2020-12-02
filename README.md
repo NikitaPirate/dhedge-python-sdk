@@ -2,7 +2,8 @@
 
 
 ## Installation
-install [eth-brownie](https://github.com/eth-brownie/brownie)
+1.install [eth-brownie](https://github.com/eth-brownie/brownie) \
+2. install dhedge:
 ```bash
 $ git clone https://github.com/NikitaPirate/dhedge-python-sdk.git
 $ cd dhedge-python-sdk
